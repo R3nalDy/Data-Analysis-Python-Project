@@ -1,0 +1,2 @@
+Tujuan Kode:
+Kode ini dirancang untuk menganalisis data numerik dalam bentuk matriks 3x3 dan memberikan ringkasan statistik yang mencakup rata-rata, varians, deviasi standar, nilai maksimum, nilai minimum, dan jumlah, baik per kolom, per baris, maupun secara keseluruhan.
